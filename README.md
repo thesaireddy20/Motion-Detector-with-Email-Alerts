@@ -82,3 +82,5 @@ Press **q** in the webcam window to stop the program safely and clean up the `im
 ---
 
 *Happy Coding! If you have questions or feedback, check out the [docs](docs/setup.md) or reach out to the project maintainer.*
+---
+Made by Sai Kumar Reddy N
