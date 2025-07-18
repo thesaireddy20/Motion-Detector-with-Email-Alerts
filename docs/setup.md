@@ -1,4 +1,4 @@
-# 🛠️ Motion Detector with Email Alerts – Setup Instructions
+# Motion Detector with Email Alerts – Setup Instructions
 
 Follow this guide to set up and run the Motion Detector with Email Alerts project on your system.
 
@@ -82,7 +82,7 @@ SENDER = "your_email@gmail.com"
 RECEIVER = "receiver_email@gmail.com"
 ```
 
-> ⚠️ **Important:** Use a Gmail App Password rather than your actual Gmail password.
+> **Important:** Use a Gmail App Password rather than your actual Gmail password.
 
 ---
 
@@ -108,13 +108,13 @@ To exit, simply press **q** in the webcam preview window. This will release the 
 
 ---
 
-## ✅ You're All Set!
+## You're All Set!
 
 If everything is set up correctly, you'll receive an email alert with a captured image whenever new movement is detected and stops.
 
 ---
 
-## 💡 Tips
+## Tips
 
 - Ensure you're **connected to the internet** for email functionality.
 - Test using **slow and distinct motions** for better contour detection.
@@ -122,11 +122,11 @@ If everything is set up correctly, you'll receive an email alert with a captured
 
 ---
 
-## 📬 Contact
+## Contact
 
 For queries or suggestions, github:  
 **[thesaireddy20](https://github.com/thesaireddy20)**
 
 ---
 
-Happy Coding! ✨
+Happy Coding!
